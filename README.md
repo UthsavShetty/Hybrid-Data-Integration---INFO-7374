@@ -2,7 +2,7 @@
 
 ## NYCOpenData-Profiling-Analysis
 
-Data Profiling, Quality and Analysis on public dataset on NYCOpenData.
+Data Profiling, Quality and Analysis on public dataset on NYCOpenData using Alteryx & Talend Data Profiling Tool
 
 ## Dataset
 
