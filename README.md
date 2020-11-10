@@ -1,6 +1,6 @@
 # NYCOpenData-Profiling-Analysis
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" width="300"> <img src="https://modin.readthedocs.io/en/latest/_static/MODIN_ver2.png" width="200"> <img src="https://pbs.twimg.com/media/D958JC_XUAsuvWR.jpg" width="250"> <br> 
