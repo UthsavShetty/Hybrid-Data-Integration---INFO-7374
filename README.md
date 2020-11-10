@@ -1,13 +1,5 @@
 # NYCOpenData-Profiling-Analysis
 
-
-
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" width="300"> <img src="https://modin.readthedocs.io/en/latest/_static/MODIN_ver2.png" width="200"> <img src="https://pbs.twimg.com/media/D958JC_XUAsuvWR.jpg" width="250"> <br> 
-
-![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-1-2x3.png)
-![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Poster-2-2x3.png)
-
 Data Profiling, Quality and Analysis on public dataset on NYCOpenData.
 
 ## Dataset
@@ -94,33 +86,3 @@ CHURCH, CLOTHING/BOUTIQUE)
 * Are the same complaint types frequent in all five boroughs of the City? 
 * How might you explain the differences? 
 * How does the distribution of complaints change over time for certain neighborhoods and how could this be explained?
-### Data Visualizations
-#### Types of complaints across the different boroughs
-![Viz-3.1](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-1.png)
-#### Distribution of "closed-dates" across the different boroughs
-![Viz-3.2](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-2.png)
-#### Heat Map Representing Status of Complaints Across The Different Boroughs
-![Viz-3.3](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-3.png)
-#### Heat Map Representing Count Of Complaints Across The Different Boroughs
-![Viz-3.4](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-4.png)
-#### Distribution of Complaint Types and their resolution dates
-![Viz-3.5](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-5.png)
-#### Types of complaints across various different locations
-![Viz-3.6](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-6.png)
-#### Heat Map representing the Types of complaints that are open in the Brooklyn region
-![Viz-3.7](https://github.com/gandalf1819/NYCOpenData-Profiling-Analysis/blob/master/Visualizations/Task-3-7.png)
-
-
-# Team 
-
-* [Chinmay Wyawahare](https://github.com/gandalf1819)
-* [Vineet Viswakumar](https://github.com/vineet247)
-* [HemanthTeja Yanambakkam](https://github.com/HemanthTejaY)
-
-## Support
-
-If you found this useful, please consider starring(★) the repo so that it can reach a broader audience
-
-## License
-
-This project is licensed under the MIT License. Feel free to create a Pull Request for adding implementations or suggesting new ideas to make the analysis more insightful
