@@ -89,7 +89,4 @@ CHURCH, CLOTHING/BOUTIQUE)
 * How might you explain the differences? 
 * How does the distribution of complaints change over time for certain neighborhoods and how could this be explained?
 
-### Teams
-Uthsav Shetty
 
-Jui Ashinkar
